@@ -1,0 +1,17 @@
+{
+    "name": "marion/greeter",
+    "description": "allows a simple and reusable greeter functions",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marion Jay M Balugo",
+            "email": "j-marion@chronostep.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Marion\\Greeter\\": "src/"
+        }
+    },
+    "require": {}
+}
